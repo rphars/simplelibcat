@@ -1,7 +1,8 @@
 A very basic local library catalogue for use in my home library. Currently command line/terminal-only. 
 
 Current ILS software is _way_ too extensive for simple home library needs.
-Other software (e.g. goodreads) are all online, I prefer to have a local-only solution.
+Other software (e.g. goodreads) are all online, I prefer to have a local-only solution, and one that adds a bit of nostalgia,
+in the style of old-school Dynix/wyse terminals.
 
 Features:
 <ul>
