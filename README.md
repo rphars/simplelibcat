@@ -1,4 +1,6 @@
-A very basic, local library catalogue for use in my home library. Current ILS software is _way_ too extensive for simple home library needs.
+A very basic local library catalogue for use in my home library. Currently command line/terminal-only. 
+
+Current ILS software is _way_ too extensive for simple home library needs.
 Other software (e.g. goodreads) are all online, I prefer to have a local-only solution.
 
 Features:
@@ -8,7 +10,7 @@ Features:
 <li>view list of books</li>
 <li>delete books from collection</li>
 </ul>
-Currently command line/terminal-only. 
+
 
 Currently planned features/fixes:
 <ul>
