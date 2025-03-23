@@ -45,7 +45,7 @@ def isbn_websearch(isbn):
 
 # function to delete a book from the catalogue
 def delete_book():
-    text = "Delete Book from Catalogue"
+    text = "Delete Book"
     ascii_art = pyfiglet.figlet_format(text, width=150)
     print(ascii_art)
     search_value = input("Enter part of the title or author of the book to delete: ").strip().lower()
