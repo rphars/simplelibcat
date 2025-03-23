@@ -6,12 +6,12 @@ Features:
 <li>add books to 'database' (currently a .csv file) based on ISBN search</li>
 <li>search owned books</li>
 <li>view list of books</li>
+<li>delete books from collection</li>
 </ul>
 Currently command line/terminal-only. 
 
 Currently planned features/fixes:
 <ul>
-<li>delete books from collection</li>
 <li>book counts (in case of multiple copies)</li>
 <li>book ratings</li>
 <li>mark as read/not read</li>
@@ -20,7 +20,6 @@ Currently planned features/fixes:
 <li>book illustrations (if front-end implemented).</li>
 <li>add books without isbn</li>
 <li>book summaries (where available)</li>
-<li>empty search string shouldnt return entire catalogue</li>
 <li>sanitize text output in order for WYSE font to properly generate (e.g. ë vs e)</li>
 <li>further attempts to resemble Dynix/wyse classic terminal, including more smooth scrolling </li>
 </ul>
